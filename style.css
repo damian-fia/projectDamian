@@ -1,0 +1,80 @@
+*{
+	margin:0%;
+	padding:5px;
+
+}
+.logo{
+	height:30px;
+	left:110px;
+	float:left;
+	
+}
+body{
+	background-image: url('image.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed ;
+}
+.headbar{
+	float:right;
+	background-color: blueviolet;
+	color:red;
+	padding:5px;
+}
+.navbar{
+	margin:29px;
+	padding:29px;
+	cursor:pointer;
+	text-align: right;
+	padding-right:250px;
+	padding-left: 200px;
+	word-spacing:50px;
+	margin-left: 40px;
+}
+
+
+button{
+	border-color:red;
+	padding:5px;
+	color:red;
+	
+}
+
+h2, h1{
+	
+	color:red;
+	margin:20px;
+	font-size: 45px;
+	text-decoration: solid 4px;
+	text-shadow: 2px black ;
+	
+
+	
+}
+h5{
+	border:solid ;
+	border-color:aliceblue;
+	margin:10px;
+	width: 700px;
+	padding:10px;
+}
+
+footer{
+	background-color: rgb(10, 10, 10);
+	padding:20px;	
+}
+.desc{
+	color:orangered;
+}
+
+.Main{
+	color:white;
+	text-align: center;
+}
+.box{
+	text-align: center;
+}
+.container{
+	display:flex;
+	justify-content: center;
+}
